@@ -171,6 +171,9 @@ lpoptions -p RICOH -l    # list capabilities
 
 macOS uses **Generic PostScript** but job is rasterized on Pi.
 
+<img width="553" height="513" alt="image" src="https://github.com/user-attachments/assets/1b7b99c3-e3b2-4e39-8049-efec6417c5d2" />
+
+
 ---
 
 ## 10. Android Printing
